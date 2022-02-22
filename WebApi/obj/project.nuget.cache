@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f972mqb+wDWWtA3tAvN2h7VzDdmbV09merzxoA6vCQ0tex1nBuZ5pKvU1pDd+wvUya1ySVgM/e9qI7gcfL7EEg==",
+  "dgSpecHash": "lvoysNWp3T8rPihG08NX2+xkJTq0SNRJPf+UzCGPW4jL9Jsmjrb2GJ2iB8eb4u36YQa4U3Q4m2gQbvg6c3Xzkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alp Eren\\Desktop\\.NET CORE\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Alp Eren\\Desktop\\.NET CORE\\BookStore\\webapi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alp Eren\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\Alp Eren\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alp Eren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

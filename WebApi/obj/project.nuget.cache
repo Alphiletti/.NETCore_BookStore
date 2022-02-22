@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "lvoysNWp3T8rPihG08NX2+xkJTq0SNRJPf+UzCGPW4jL9Jsmjrb2GJ2iB8eb4u36YQa4U3Q4m2gQbvg6c3Xzkw==",
+=======
+  "dgSpecHash": "EZkxW3vb6H68BZUvqfdGFgtxgiUhJXkTfsSBSX3Q/G62RuoIuLDbuu/BBzSWjKXDHpP7wCvz0k6BoSK6Qh89Fw==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\Alp Eren\\Desktop\\.NET CORE\\BookStore\\webapi\\WebApi.csproj",
   "expectedPackageFiles": [

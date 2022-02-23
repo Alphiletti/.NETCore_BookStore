@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
   "dgSpecHash": "lvoysNWp3T8rPihG08NX2+xkJTq0SNRJPf+UzCGPW4jL9Jsmjrb2GJ2iB8eb4u36YQa4U3Q4m2gQbvg6c3Xzkw==",
-=======
-  "dgSpecHash": "EZkxW3vb6H68BZUvqfdGFgtxgiUhJXkTfsSBSX3Q/G62RuoIuLDbuu/BBzSWjKXDHpP7wCvz0k6BoSK6Qh89Fw==",
->>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\Alp Eren\\Desktop\\.NET CORE\\BookStore\\webapi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -37,5 +33,12 @@
     "C:\\Users\\Alp Eren\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Alp Eren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\Alp Eren\\Desktop\\.NET CORE\\BookStore\\webapi\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

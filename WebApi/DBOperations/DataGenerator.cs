@@ -28,7 +28,7 @@ namespace WebApi.DBOperations
                         },
 
                         new Book
-                                    {
+                        {
                             //Id = 2,
                             Title = "Herland",
                             GenreID = 2, // Personal Growth
